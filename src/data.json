@@ -1,0 +1,35 @@
+ [
+    {
+      "id": 1,
+      "name": "Men's Inter Miami CF Lionel Messi adidas Pink 2023 The Heart Beat Kit Authentic Jersey",
+      "description": "Descripción del Producto 1",
+      "price": 1500,
+      "img": "https://images.footballfanatics.com/inter-miami-cf/mens-adidas-lionel-messi-pink-inter-miami-cf-2023-the-heart-beat-kit-authentic-jersey_ss5_p-200387113+pv-1+u-ghnzrhjj2ienrjequp3b+v-x8mgpbsbea78xiudgrcb.jpg?_hv=2&w=900",
+      "category":"Jersey"
+    },
+    {
+      "id": 2,
+      "name": "Men's Inter Miami CF Lionel Messi adidas Black 2023 La Noche Authentic Jersey",
+      "description": "Descripción del Producto 2",
+      "price": 1500,
+      "img": "https://images.footballfanatics.com/inter-miami-cf/mens-adidas-lionel-messi-black-inter-miami-cf-2023-la-noche-replica-jersey_ss5_p-200282041+pv-1+u-7xzgx5pj6m7vmqcpd4dj+v-bhm4wuappe94npu76wj6.jpg?_hv=2&w=900",
+      "category":"Jersey"
+    },
+    {
+      "id": 3,
+      "name": "Men's Inter Miami CF adidas Red 2023 Americana x Captain America Pre-Match Top",
+      "description": "Descripción del Producto 3",
+      "price": 1500,
+      "img": "https://images.footballfanatics.com/inter-miami-cf/mens-adidas-red-inter-miami-cf-2023-americana-x-captain-america-pre-match-top_ss5_p-5208506+pv-1+u-pcttlfguujtx0j0con4r+v-v6vgycqsg1zypwaew9mj.jpg?_hv=2&w=900",
+      "category":"Pre-Match"
+    },
+    {
+      "id": 4,
+      "name": "Men's Inter Miami CF adidas Camo 2021 Pre-Match Performance Top",
+      "description": "Descripción del Producto 4",
+      "price": 1500,
+      "img": "https://images.footballfanatics.com/inter-miami-cf/mens-adidas-camo-inter-miami-cf-2021-pre-match-performance-top_pi3895000_altimages_ff_3895353-fc86e2c14cecd2f09062alt1_full.jpg?_hv=2&w=900",
+      "category":"Pre-Match"
+    }
+  ]
+  
